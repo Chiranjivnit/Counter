@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/chiranjivi/Chiranjiv/projects/Counter_Demo_project/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es/values-es.xml",
+            "outputFile": "/home/chiranjivi/Chiranjiv/projects/Counter/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es/values-es.xml",
             "map": [
                 {
                     "source": "/home/chiranjivi/.gradle/caches/transforms-2/files-2.1/e1dc4f6add1d20566765175db430211c/res/values-es/values-es.xml",
